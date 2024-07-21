@@ -1,0 +1,6 @@
+./data/adjust_results4_isadog_hints.py
+./data/classify_images_hints.py
+./data/get_input_args_hints.py
+./data/get_pet_labels_hints.py
+./data/print_results_hints.py
+./data/calculates_results_stats_hints.py
