@@ -1,0 +1,2 @@
+Install a major version of Python, maybe 3.8. Here more info about the “walrus” expression : https://docs.python.org/3/reference/expressions.html#assignment-expressions
+Finally I leave an image of Docker in case you need it.
